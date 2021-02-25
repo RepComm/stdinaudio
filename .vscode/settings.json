@@ -1,0 +1,21 @@
+{
+  "files.associations": {
+    "*.tcc": "c",
+    "cstdlib": "c",
+    "memory": "c",
+    "cinttypes": "c",
+    "atomic": "c",
+    "memory_resource": "c",
+    "istream": "c",
+    "streambuf": "c",
+    "tuple": "c",
+    "optional": "c",
+    "numeric": "c",
+    "cmath": "c",
+    "functional": "c",
+    "string": "c",
+    "string_view": "c",
+    "typeinfo": "c",
+    "limits": "c"
+  }
+}
