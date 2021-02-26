@@ -16,6 +16,8 @@
     "string": "c",
     "string_view": "c",
     "typeinfo": "c",
-    "limits": "c"
+    "limits": "c",
+    "stdio.h": "c",
+    "stdlib.h": "c"
   }
 }
